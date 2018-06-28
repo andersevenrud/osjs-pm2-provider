@@ -1,0 +1,26 @@
+{
+  "name": "osjs-pm2-provider",
+  "version": "1.0.0",
+  "description": "PM2 Metrics Service Provider for OS.js v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersevenrud/osjs-pm2-provider.git"
+  },
+  "keywords": [
+    "osjs"
+  ],
+  "author": "Anders Evenrud <andersevenrud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersevenrud/osjs-pm2-provider/issues"
+  },
+  "homepage": "https://github.com/andersevenrud/osjs-pm2-provider#readme",
+  "dependencies": {
+    "@osjs/common": "^3.0.0-alpha.7",
+    "npx": "^10.2.0"
+  }
+}
