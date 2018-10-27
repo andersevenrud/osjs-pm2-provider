@@ -33,6 +33,21 @@ const pmx = require('pmx');
 
 class PM2ServiceProvider extends ServiceProvider {
 
+  constructor(core, options = {}) {
+    this.core = core;
+    this.options = options;
+  }
+
+  destroy() {
+  }
+
+  provides() {
+    return [];
+  }
+
+  start() {
+  }
+
   async init() {
     pmx.init({
       http: true,

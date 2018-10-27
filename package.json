@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/andersevenrud/osjs-pm2-provider#readme",
   "dependencies": {
-    "@osjs/common": "^3.0.0-alpha.7",
     "npx": "^10.2.0"
   }
 }
