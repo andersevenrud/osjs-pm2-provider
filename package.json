@@ -1,6 +1,6 @@
 {
   "name": "osjs-pm2-provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PM2 Metrics Service Provider for OS.js v3",
   "main": "index.js",
   "scripts": {
