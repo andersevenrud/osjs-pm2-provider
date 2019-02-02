@@ -18,5 +18,5 @@ PM2 Metrics Service Provider for OS.js v3
 In your server initialization script:
 
 ```
-core.register(require('osjs-pm2-provider'));
+osjs.register(require('osjs-pm2-provider'));
 ```
